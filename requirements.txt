@@ -1,0 +1,4 @@
+streamlit>=1.39
+numpy>=1.26
+Pillow>=10.0
+igor2>=0.5.7
